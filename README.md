@@ -1,3 +1,3 @@
 # hbc-coffee-week
 
-Code assessment
+[View live](https://hbc-coffee-week.herokuapp.com/)
